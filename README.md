@@ -18,4 +18,4 @@ Homework 4 | [Multiple regression methods] | [HW4](https://github.com/AlexYoungZ
 Homework 5 | [Logistic, SVM classifier, PCA, LDA, KPCA] | [HW5](https://github.com/AlexYoungZ/Machine-Learning-in-Finance/tree/master/IE598_F18_HW5)
 Homework 6 | [DecisionTree classifier, Grid search] | [HW6](https://github.com/AlexYoungZ/Machine-Learning-in-Finance/tree/master/IE598_F18_HW6)
 Homework 7 | [RandomForest Classifier] | [HW7](https://github.com/AlexYoungZ/Machine-Learning-in-Finance/tree/master/IE598_F18_HW7)
-Project | [Using financial data to evaluate credit score] | [Project](https://github.com/AlexYoungZ/cs61b/tree/master/proj2c)
+Project | [Using financial data to evaluate credit score] | [Project](https://github.com/AlexYoungZ/Machine-Learning-in-Finance/tree/master/IE598_GroupProject)
